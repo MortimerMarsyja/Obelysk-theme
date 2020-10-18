@@ -1,0 +1,22 @@
+{
+    "name": "obelysk",
+    "displayName": "Obelysk",
+    "description": "Code in stone like in the past to stay in the future",
+    "version": "0.0.1",
+    "publisher": "mortymerMarsyja",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Obelisk theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Obelisk theme-color-theme.json"
+            }
+        ]
+    }
+}
