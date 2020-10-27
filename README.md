@@ -1,8 +1,10 @@
 # OBELYSK THEME
 
-<img src="./images/ob.png" alt="obelysk" width="200"/>
+<img src="./images/ob.png" alt="obelysk" width="180"/>
 
 ## Alpha State &rarr; V0.0.<sub>2</sub>
+
+---
 
 ### A Deutan colorblind friendly theme
 
