@@ -1,6 +1,6 @@
 # OBELYSK THEME
 
-<img src="./images/ob.png" alt="obelysk" width="180"/>
+<img src="https://raw.githubusercontent.com/MortimerMarsyja/Obelysk-theme/main/images/Ob.png" alt="obelysk" width="180"/>
 
 ## Alpha State &rarr; V0.0.<sub>2</sub>
 
